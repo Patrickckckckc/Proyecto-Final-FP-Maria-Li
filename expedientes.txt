@@ -1,1 +1,13 @@
+
 EXP-2026-001|71226497|José Patrick Wackerbauer Zambrano|Quiero mi visa.|2026-10-09 11:32|RECIBIDO
+EXP-2026-003|12345678|Juan Pérez García|Solicito renovación de pasaporte.|2026-10-09 11:35|RECIBIDO
+EXP-2026-002|45871236|María Fernanda López Díaz|Solicito renovación de visa.|2026-10-09 11:35|RECIBIDO
+EXP-2026-003|67458123|Carlos Alberto Mendoza Ruiz|Quiero mi visa de trabajo.|2026-10-09 11:37|RECIBIDO
+EXP-2026-004|51247896|Ana Lucía Torres Vega|Solicito información sobre mi trámite.|2026-10-09 11:39|RECIBIDO
+EXP-2026-005|78954123|Luis Enrique Castro Flores|Deseo obtener una visa de estudios.|2026-10-09 11:41|RECIBIDO
+EXP-2026-006|62314578|Valeria Sofía Ramos Pérez|Solicito actualización de estado de visa.|2026-10-09 11:43|RECIBIDO
+EXP-2026-007|74125896|Diego Alejandro Salas Rojas|Quiero programar una cita para visa.|2026-10-09 11:45|RECIBIDO
+EXP-2026-008|89632541|Camila Andrea Herrera León|Necesito una visa turística.|2026-10-09 11:47|RECIBIDO
+EXP-2026-009|35792468|Jorge Manuel Navarro Silva|Solicito corrección de datos en solicitud.|2026-10-09 11:49|RECIBIDO
+EXP-2026-010|95175384|Paula Jimena Sánchez Ortiz|Quiero conocer los requisitos para visa.|2026-10-09 11:51|RECIBIDO
+EXP-2026-011|28641975|Ricardo Andrés Paredes Gómez|Solicito una visa de negocios.|2026-10-09 11:53|RECIBIDO

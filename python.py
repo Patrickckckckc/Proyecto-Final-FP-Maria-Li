@@ -230,27 +230,28 @@ def main():
 
         opcion = input("Seleccione una opción (1-4): ").strip()
 
-        if opcion == "1":
-            registrar_nuevo_expediente(
-                codigos, dnis, remitentes, asuntos, fechas, estados
-            )
-        elif opcion == "2":
-            consultar_expediente(
-                codigos, dnis, remitentes, asuntos, fechas, estados
-            )
-        elif opcion == "3":
-            listar_expedientes(
-                codigos, dnis, remitentes, asuntos, fechas, estados
-            )
-        elif opcion == "4":
-            print(
-                "\nGuardando sesión y cerrando el sistema... ¡Hasta luego!"
-            )
-            break
-        else:
-            print(
-                "\n[ERROR] Opción no válida. Por favor, ingrese un número del 1 al 4."
-            )
+        match opcion:
+            case "1":
+                registrar_nuevo_expediente(
+                    codigos, dnis, remitentes, asuntos, fechas, estados
+                )
+            case "2":
+                consultar_expediente(
+                    codigos, dnis, remitentes, asuntos, fechas, estados
+                )
+            case "3":
+                listar_expedientes(
+                    codigos, dnis, remitentes, asuntos, fechas, estados
+                )
+            case "4":
+                print(
+                    "\nGuardando sesión y cerrando el sistema... ¡Hasta luego!"
+                )
+                break
+            case _:
+                print(
+                    "\n[ERROR] Opción no válida. Por favor, ingrese un número del 1 al 4."
+                )
 
 
 if __name__ == "__main__":
